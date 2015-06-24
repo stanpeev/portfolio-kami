@@ -5,29 +5,29 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Stan Peev # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
+     <h1>Every pro was once an amateur</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "stan.peev@gmail.com"
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "http://www.github.com/stanpeev/"
   google_plus:
   instagram: 
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/profile/view?id=106075526&trk=hp-identity-name"
   pinterest:
   reddit:
   soundcloud:
@@ -35,7 +35,7 @@ theme:
   steam:
   tumblr:
   twitter: 
-  wordpress:
+  wordpress: 
   youtube:
 
   # Scripts
